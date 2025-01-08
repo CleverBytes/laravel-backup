@@ -1,7 +1,7 @@
 <?php
 
 return [
-
+// 1. https://github.com/survivejs/webpack-merge/blob/v4.2.2/src/index.js
     'backup' => [
         /*
          * The name of this application. You can use this name to monitor
